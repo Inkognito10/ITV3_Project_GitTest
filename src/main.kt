@@ -54,6 +54,7 @@ fun Info() {
     print("Код задачи определяется ее первой буквой в названии\n")
     Thread.sleep(500)
     print("+ порядковый номер в списке.\n")
+    print"hello")
     Thread.sleep(500)
     print("Например, Begin1 - b1.\n")
     Thread.sleep(500)
